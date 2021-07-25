@@ -1,4 +1,4 @@
-# Calculator for area of an circle part
+# Calculator for area of a circle part
 
 This is a practice at [Patika.dev](https://app.patika.dev/egitimler/java-ile-backend-web-development-patikasi/java101/pratik-daire-alan-cevre)
 
